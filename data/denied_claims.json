@@ -1,0 +1,8720 @@
+[
+  {
+    "claim_id": "CLM-00038",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Eli Garcia",
+      "dob": "1980-08-04",
+      "member_id": "M11646234"
+    },
+    "service_date": "2026-10-10",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "1529.65",
+        "allowed": "1123.91"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "3208.90",
+        "allowed": "1507.54"
+      },
+      {
+        "line_no": 3,
+        "cpt": "36415",
+        "billed": "1097.73",
+        "allowed": "524.44"
+      },
+      {
+        "line_no": 4,
+        "cpt": "70553",
+        "billed": "1020.79",
+        "allowed": "491.37"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1123.91"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00146",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ben Okafor",
+      "dob": "1972-12-09",
+      "member_id": "M59535894"
+    },
+    "service_date": "2026-09-16",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "390.82",
+        "allowed": "349.98"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "3757.49",
+        "allowed": "3079.82"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "846.73",
+        "allowed": "615.43"
+      },
+      {
+        "line_no": 4,
+        "cpt": "71046",
+        "billed": "3625.41",
+        "allowed": "1941.84"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "349.98"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00085",
+    "payer": "Humana",
+    "patient": {
+      "name": "Fatima Nguyen",
+      "dob": "1947-06-14",
+      "member_id": "M63690013"
+    },
+    "service_date": "2026-09-13",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "273.90",
+        "allowed": "130.39"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "1125.79",
+        "allowed": "936.07"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "1705.69",
+        "allowed": "1039.16"
+      },
+      {
+        "line_no": 4,
+        "cpt": "80053",
+        "billed": "2561.97",
+        "allowed": "1157.98"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "130.39"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00108",
+    "payer": "Humana",
+    "patient": {
+      "name": "Eli Patel",
+      "dob": "1980-05-12",
+      "member_id": "M92493631"
+    },
+    "service_date": "2026-07-08",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "1479.81",
+        "allowed": "1291.02"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "3133.77",
+        "allowed": "2299.34"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "1451.29",
+        "allowed": "1004.60"
+      },
+      {
+        "line_no": 4,
+        "cpt": "27447",
+        "billed": "405.71",
+        "allowed": "284.27"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "1291.02"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00114",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Ana Rossi",
+      "dob": "1978-11-23",
+      "member_id": "M16533225"
+    },
+    "service_date": "2026-07-24",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "248.91",
+        "allowed": "195.57"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "195.57"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00016",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Hana Patel",
+      "dob": "1944-09-07",
+      "member_id": "M77898694"
+    },
+    "service_date": "2026-08-05",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "1447.16",
+        "allowed": "611.51"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "1331.40",
+        "allowed": "611.60"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "3601.59",
+        "allowed": "2475.37"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "611.51"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00239",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Dana Lee",
+      "dob": "1987-12-03",
+      "member_id": "M22101856"
+    },
+    "service_date": "2026-10-10",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "905.46",
+        "allowed": "318.82"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "318.82"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00190",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ivan Garcia",
+      "dob": "1958-02-16",
+      "member_id": "M27172371"
+    },
+    "service_date": "2026-08-24",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "1879.18",
+        "allowed": "1382.94"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "3678.28",
+        "allowed": "2283.41"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "1382.94"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00161",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ivan Kim",
+      "dob": "1949-01-14",
+      "member_id": "M13209180"
+    },
+    "service_date": "2026-07-18",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "1608.79",
+        "allowed": "1026.86"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "3957.50",
+        "allowed": "2665.89"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "1026.86"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00238",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Ivan Kim",
+      "dob": "1979-03-22",
+      "member_id": "M14840043"
+    },
+    "service_date": "2026-08-08",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "1137.52",
+        "allowed": "921.78"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "921.78"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00181",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ben Okafor",
+      "dob": "1975-07-18",
+      "member_id": "M53771998"
+    },
+    "service_date": "2026-08-17",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "741.57",
+        "allowed": "241.46"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "3661.54",
+        "allowed": "2054.99"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "241.46"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00001",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Ana Lee",
+      "dob": "1945-04-08",
+      "member_id": "M77827638"
+    },
+    "service_date": "2026-10-01",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "211.12",
+        "allowed": "157.27"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "157.27"
+      },
+      {
+        "code": "CO-50",
+        "amount": "188.70"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00155",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Jo Patel",
+      "dob": "1959-12-14",
+      "member_id": "M42029368"
+    },
+    "service_date": "2026-06-08",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "2736.09",
+        "allowed": "1291.14"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "2258.06",
+        "allowed": "1251.29"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "512.15",
+        "allowed": "350.48"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99214",
+        "billed": "3309.86",
+        "allowed": "1296.17"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "1291.14"
+      },
+      {
+        "code": "CO-29",
+        "amount": "60.91"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00200",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Fatima Smith",
+      "dob": "1967-12-04",
+      "member_id": "M22750478"
+    },
+    "service_date": "2026-06-01",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "861.94",
+        "allowed": "749.60"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "473.46",
+        "allowed": "347.59"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "1421.61",
+        "allowed": "976.08"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "1632.00",
+        "allowed": "748.23"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "749.60"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00078",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Dana Smith",
+      "dob": "1983-10-15",
+      "member_id": "M71965637"
+    },
+    "service_date": "2026-08-25",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "888.72",
+        "allowed": "353.13"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "3861.07",
+        "allowed": "2172.25"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "1989.97",
+        "allowed": "1404.56"
+      },
+      {
+        "line_no": 4,
+        "cpt": "27447",
+        "billed": "2408.88",
+        "allowed": "1605.17"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "353.13"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00222",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Ana Rossi",
+      "dob": "1981-09-03",
+      "member_id": "M49010740"
+    },
+    "service_date": "2026-06-09",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "2896.22",
+        "allowed": "1820.32"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "1677.45",
+        "allowed": "714.65"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "1190.11",
+        "allowed": "651.70"
+      },
+      {
+        "line_no": 4,
+        "cpt": "80053",
+        "billed": "826.87",
+        "allowed": "327.91"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "1820.32"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00137",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ivan Rossi",
+      "dob": "1962-08-04",
+      "member_id": "M68809636"
+    },
+    "service_date": "2026-09-11",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "688.53",
+        "allowed": "549.99"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "549.99"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00015",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Jo Lee",
+      "dob": "1979-02-14",
+      "member_id": "M98231132"
+    },
+    "service_date": "2026-10-19",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "3620.05",
+        "allowed": "2957.91"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "2957.91"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00050",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Ivan Lee",
+      "dob": "1979-02-08",
+      "member_id": "M94712997"
+    },
+    "service_date": "2026-08-08",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "1802.62",
+        "allowed": "1462.65"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "1462.65"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00178",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Ben Nguyen",
+      "dob": "1990-07-16",
+      "member_id": "M75645462"
+    },
+    "service_date": "2026-08-03",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "3077.72",
+        "allowed": "1938.34"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "885.25",
+        "allowed": "294.53"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "2321.88",
+        "allowed": "818.64"
+      },
+      {
+        "line_no": 4,
+        "cpt": "80053",
+        "billed": "1126.87",
+        "allowed": "403.64"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1938.34"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00094",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Eli Rossi",
+      "dob": "1944-12-02",
+      "member_id": "M31217198"
+    },
+    "service_date": "2026-09-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "3493.79",
+        "allowed": "1490.05"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "3320.66",
+        "allowed": "2269.32"
+      },
+      {
+        "line_no": 3,
+        "cpt": "93000",
+        "billed": "3368.14",
+        "allowed": "2112.99"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "1490.05"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00150",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ben Smith",
+      "dob": "1963-05-05",
+      "member_id": "M61367949"
+    },
+    "service_date": "2026-07-21",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "488.62",
+        "allowed": "185.49"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "2803.38",
+        "allowed": "1984.76"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "122.27",
+        "allowed": "87.71"
+      },
+      {
+        "line_no": 4,
+        "cpt": "27447",
+        "billed": "2294.14",
+        "allowed": "1643.56"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "185.49"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00065",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ben Smith",
+      "dob": "1994-09-12",
+      "member_id": "M25419645"
+    },
+    "service_date": "2026-08-19",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "3568.30",
+        "allowed": "3085.43"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "3860.43",
+        "allowed": "1277.29"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "3227.87",
+        "allowed": "1573.49"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "3085.43"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00187",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Hana Nguyen",
+      "dob": "1953-08-10",
+      "member_id": "M79878835"
+    },
+    "service_date": "2026-10-13",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "3474.09",
+        "allowed": "1403.26"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "1253.19",
+        "allowed": "565.73"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "1403.26"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00224",
+    "payer": "Humana",
+    "patient": {
+      "name": "Gus Nguyen",
+      "dob": "1993-06-05",
+      "member_id": "M54501625"
+    },
+    "service_date": "2026-09-15",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "3311.40",
+        "allowed": "2303.59"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "3045.12",
+        "allowed": "1949.23"
+      },
+      {
+        "line_no": 3,
+        "cpt": "36415",
+        "billed": "2325.56",
+        "allowed": "932.98"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "2303.59"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00086",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ivan Nguyen",
+      "dob": "1960-02-03",
+      "member_id": "M54012664"
+    },
+    "service_date": "2026-08-10",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "1059.46",
+        "allowed": "633.26"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "2005.95",
+        "allowed": "1714.26"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "1478.38",
+        "allowed": "1154.15"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "633.26"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00077",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ivan Lee",
+      "dob": "1982-06-25",
+      "member_id": "M92950779"
+    },
+    "service_date": "2026-07-20",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "2745.94",
+        "allowed": "1419.92"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "1699.34",
+        "allowed": "693.60"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "1871.66",
+        "allowed": "1625.73"
+      },
+      {
+        "line_no": 4,
+        "cpt": "71046",
+        "billed": "1086.66",
+        "allowed": "473.70"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1419.92"
+      },
+      {
+        "code": "CO-50",
+        "amount": "176.35"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00060",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Ana Nguyen",
+      "dob": "1994-03-05",
+      "member_id": "M82506491"
+    },
+    "service_date": "2026-08-26",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "2985.64",
+        "allowed": "1266.79"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "1266.79"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00112",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Gus Okafor",
+      "dob": "1945-11-22",
+      "member_id": "M82383656"
+    },
+    "service_date": "2026-07-21",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "1585.18",
+        "allowed": "864.43"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "864.43"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00154",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Jo Patel",
+      "dob": "1940-05-07",
+      "member_id": "M15345470"
+    },
+    "service_date": "2026-06-26",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "3425.38",
+        "allowed": "2248.28"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "143.26",
+        "allowed": "127.81"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "771.97",
+        "allowed": "410.77"
+      },
+      {
+        "line_no": 4,
+        "cpt": "71046",
+        "billed": "1995.81",
+        "allowed": "1253.00"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "2248.28"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00140",
+    "payer": "Humana",
+    "patient": {
+      "name": "Eli Patel",
+      "dob": "1983-03-11",
+      "member_id": "M25819123"
+    },
+    "service_date": "2026-07-10",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "677.45",
+        "allowed": "309.87"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "2846.74",
+        "allowed": "2503.85"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "3209.84",
+        "allowed": "1711.43"
+      },
+      {
+        "line_no": 4,
+        "cpt": "36415",
+        "billed": "3157.59",
+        "allowed": "1163.70"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "309.87"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00005",
+    "payer": "Humana",
+    "patient": {
+      "name": "Fatima Kim",
+      "dob": "1981-08-13",
+      "member_id": "M96282117"
+    },
+    "service_date": "2026-09-05",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "1733.88",
+        "allowed": "937.51"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "937.51"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00117",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Ivan Garcia",
+      "dob": "1964-04-09",
+      "member_id": "M37291394"
+    },
+    "service_date": "2026-08-21",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "2220.45",
+        "allowed": "864.93"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "1044.05",
+        "allowed": "785.80"
+      },
+      {
+        "line_no": 3,
+        "cpt": "93000",
+        "billed": "1343.36",
+        "allowed": "1087.59"
+      },
+      {
+        "line_no": 4,
+        "cpt": "27447",
+        "billed": "3789.74",
+        "allowed": "1465.16"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "864.93"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00164",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Dana Rossi",
+      "dob": "1959-08-09",
+      "member_id": "M26094525"
+    },
+    "service_date": "2026-06-06",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "1304.79",
+        "allowed": "449.91"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "793.61",
+        "allowed": "609.46"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "894.79",
+        "allowed": "325.16"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "449.91"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00022",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Gus Kim",
+      "dob": "1956-01-23",
+      "member_id": "M68526649"
+    },
+    "service_date": "2026-06-17",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "648.34",
+        "allowed": "426.57"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "426.57"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00171",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ivan Rossi",
+      "dob": "1940-06-20",
+      "member_id": "M37040091"
+    },
+    "service_date": "2026-07-11",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "3181.49",
+        "allowed": "1008.29"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "3056.12",
+        "allowed": "1950.31"
+      },
+      {
+        "line_no": 3,
+        "cpt": "71046",
+        "billed": "2660.68",
+        "allowed": "1663.66"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "1008.29"
+      },
+      {
+        "code": "CO-16",
+        "amount": "86.22"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00010",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ana Patel",
+      "dob": "1985-11-02",
+      "member_id": "M40728046"
+    },
+    "service_date": "2026-06-02",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "1379.73",
+        "allowed": "599.93"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "599.93"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00105",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Chen Okafor",
+      "dob": "1996-03-02",
+      "member_id": "M63283709"
+    },
+    "service_date": "2026-09-06",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "1585.99",
+        "allowed": "781.42"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "549.03",
+        "allowed": "379.59"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "781.42"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00116",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Ana Smith",
+      "dob": "1981-11-13",
+      "member_id": "M80392240"
+    },
+    "service_date": "2026-08-23",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "1322.05",
+        "allowed": "635.98"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "3541.41",
+        "allowed": "2170.00"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "1655.49",
+        "allowed": "769.96"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "635.98"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00025",
+    "payer": "Humana",
+    "patient": {
+      "name": "Eli Kim",
+      "dob": "1991-04-05",
+      "member_id": "M13278320"
+    },
+    "service_date": "2026-06-08",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "3534.27",
+        "allowed": "1240.10"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "3560.50",
+        "allowed": "2420.30"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "1240.10"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00006",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ben Garcia",
+      "dob": "1980-03-26",
+      "member_id": "M66661351"
+    },
+    "service_date": "2026-10-03",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "812.06",
+        "allowed": "363.78"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "2905.79",
+        "allowed": "1329.82"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "3139.39",
+        "allowed": "1694.14"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "363.78"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00029",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Ana Okafor",
+      "dob": "1961-11-22",
+      "member_id": "M64266464"
+    },
+    "service_date": "2026-07-27",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "2121.98",
+        "allowed": "1788.62"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "3098.27",
+        "allowed": "1636.59"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "1924.22",
+        "allowed": "922.02"
+      },
+      {
+        "line_no": 4,
+        "cpt": "70553",
+        "billed": "2276.87",
+        "allowed": "1418.34"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "1788.62"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00032",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Eli Okafor",
+      "dob": "1965-12-07",
+      "member_id": "M20200074"
+    },
+    "service_date": "2026-10-23",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "2518.11",
+        "allowed": "1812.23"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "959.69",
+        "allowed": "636.79"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1812.23"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00157",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Eli Patel",
+      "dob": "1971-08-17",
+      "member_id": "M58335011"
+    },
+    "service_date": "2026-06-16",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "2822.05",
+        "allowed": "1722.39"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "955.36",
+        "allowed": "499.77"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99213",
+        "billed": "3922.69",
+        "allowed": "3263.09"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "1722.39"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00177",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ivan Nguyen",
+      "dob": "1982-05-10",
+      "member_id": "M41883191"
+    },
+    "service_date": "2026-06-02",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "3264.09",
+        "allowed": "2721.77"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "360.78",
+        "allowed": "130.15"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "2721.77"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00075",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Fatima Patel",
+      "dob": "1975-11-13",
+      "member_id": "M48137561"
+    },
+    "service_date": "2026-08-24",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "1987.87",
+        "allowed": "1041.07"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "2111.17",
+        "allowed": "1151.14"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "1041.07"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00186",
+    "payer": "Humana",
+    "patient": {
+      "name": "Dana Nguyen",
+      "dob": "1981-07-17",
+      "member_id": "M12691381"
+    },
+    "service_date": "2026-06-16",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "1011.04",
+        "allowed": "885.99"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "3156.94",
+        "allowed": "1991.40"
+      },
+      {
+        "line_no": 3,
+        "cpt": "93000",
+        "billed": "937.28",
+        "allowed": "752.25"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "3691.56",
+        "allowed": "1307.68"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "885.99"
+      },
+      {
+        "code": "CO-29",
+        "amount": "82.53"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00169",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Ana Rossi",
+      "dob": "1973-06-25",
+      "member_id": "M88381665"
+    },
+    "service_date": "2026-07-06",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "2594.92",
+        "allowed": "1626.26"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "1883.72",
+        "allowed": "1596.65"
+      },
+      {
+        "line_no": 3,
+        "cpt": "71046",
+        "billed": "1766.13",
+        "allowed": "941.40"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "1626.26"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00012",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Dana Kim",
+      "dob": "1952-09-15",
+      "member_id": "M28814949"
+    },
+    "service_date": "2026-09-06",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "3610.36",
+        "allowed": "2498.63"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "2498.63"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00168",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ivan Kim",
+      "dob": "1980-09-26",
+      "member_id": "M12621269"
+    },
+    "service_date": "2026-09-26",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "3473.60",
+        "allowed": "1657.13"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "2967.19",
+        "allowed": "1742.98"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "1657.13"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00113",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Gus Kim",
+      "dob": "1955-08-12",
+      "member_id": "M30820038"
+    },
+    "service_date": "2026-08-07",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "701.97",
+        "allowed": "285.76"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "2140.75",
+        "allowed": "1321.50"
+      },
+      {
+        "line_no": 3,
+        "cpt": "93000",
+        "billed": "98.21",
+        "allowed": "74.02"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "285.76"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00042",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Ivan Rossi",
+      "dob": "1968-02-20",
+      "member_id": "M15350023"
+    },
+    "service_date": "2026-09-24",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "454.39",
+        "allowed": "152.58"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "3199.74",
+        "allowed": "2397.80"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "152.58"
+      },
+      {
+        "code": "CO-197",
+        "amount": "141.89"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00206",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Jo Nguyen",
+      "dob": "1996-09-18",
+      "member_id": "M37763104"
+    },
+    "service_date": "2026-09-11",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "618.14",
+        "allowed": "335.07"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "335.07"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00037",
+    "payer": "Humana",
+    "patient": {
+      "name": "Dana Smith",
+      "dob": "1947-12-18",
+      "member_id": "M34850391"
+    },
+    "service_date": "2026-07-07",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "2561.24",
+        "allowed": "1618.92"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "2310.86",
+        "allowed": "2075.10"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "1814.29",
+        "allowed": "927.26"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "1618.92"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00070",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Chen Rossi",
+      "dob": "1993-12-12",
+      "member_id": "M21828592"
+    },
+    "service_date": "2026-09-28",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "1721.33",
+        "allowed": "1111.04"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "1111.04"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00082",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Eli Okafor",
+      "dob": "1940-10-12",
+      "member_id": "M42287985"
+    },
+    "service_date": "2026-10-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "2281.09",
+        "allowed": "1558.83"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "409.29",
+        "allowed": "150.01"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "1558.83"
+      },
+      {
+        "code": "PR-1",
+        "amount": "198.43"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00125",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Hana Nguyen",
+      "dob": "1942-02-22",
+      "member_id": "M47631028"
+    },
+    "service_date": "2026-10-19",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "2849.07",
+        "allowed": "2425.96"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "2425.96"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00099",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Jo Smith",
+      "dob": "1972-09-18",
+      "member_id": "M75746104"
+    },
+    "service_date": "2026-10-10",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "3258.55",
+        "allowed": "2723.75"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "1799.48",
+        "allowed": "1545.43"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "2723.75"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00083",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Ana Okafor",
+      "dob": "1995-08-02",
+      "member_id": "M95318289"
+    },
+    "service_date": "2026-09-12",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "3563.21",
+        "allowed": "2497.56"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "1970.60",
+        "allowed": "671.20"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "2497.56"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00107",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Hana Smith",
+      "dob": "1999-04-01",
+      "member_id": "M45002007"
+    },
+    "service_date": "2026-09-08",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "1626.77",
+        "allowed": "1042.22"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "1000.09",
+        "allowed": "666.63"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "2322.39",
+        "allowed": "1414.73"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "1042.22"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00120",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Chen Lee",
+      "dob": "1956-09-19",
+      "member_id": "M87731247"
+    },
+    "service_date": "2026-09-10",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "1697.02",
+        "allowed": "775.43"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "2687.16",
+        "allowed": "1557.48"
+      },
+      {
+        "line_no": 3,
+        "cpt": "36415",
+        "billed": "1758.94",
+        "allowed": "1492.63"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "775.43"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00182",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Eli Okafor",
+      "dob": "1981-08-19",
+      "member_id": "M91733516"
+    },
+    "service_date": "2026-09-02",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "144.82",
+        "allowed": "111.79"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "2279.88",
+        "allowed": "837.88"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "856.99",
+        "allowed": "548.44"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99214",
+        "billed": "633.83",
+        "allowed": "404.14"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "111.79"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00229",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Jo Patel",
+      "dob": "1982-04-14",
+      "member_id": "M54322017"
+    },
+    "service_date": "2026-06-16",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "2632.55",
+        "allowed": "2041.79"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "2711.07",
+        "allowed": "2248.07"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "948.25",
+        "allowed": "415.33"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "2041.79"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00080",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Chen Lee",
+      "dob": "1958-08-23",
+      "member_id": "M28628439"
+    },
+    "service_date": "2026-09-15",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "1912.83",
+        "allowed": "1641.75"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "359.21",
+        "allowed": "193.21"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "1316.15",
+        "allowed": "699.80"
+      },
+      {
+        "line_no": 4,
+        "cpt": "36415",
+        "billed": "2045.62",
+        "allowed": "889.28"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "1641.75"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00066",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Fatima Smith",
+      "dob": "1940-03-28",
+      "member_id": "M29226889"
+    },
+    "service_date": "2026-10-22",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "2329.78",
+        "allowed": "1880.35"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "217.64",
+        "allowed": "144.82"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "1880.35"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00115",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ivan Nguyen",
+      "dob": "1954-12-19",
+      "member_id": "M52802529"
+    },
+    "service_date": "2026-10-20",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "2189.02",
+        "allowed": "1233.25"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "1233.25"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00034",
+    "payer": "Humana",
+    "patient": {
+      "name": "Jo Nguyen",
+      "dob": "1960-04-27",
+      "member_id": "M21631697"
+    },
+    "service_date": "2026-08-15",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "3412.29",
+        "allowed": "2849.07"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "3788.33",
+        "allowed": "1484.25"
+      },
+      {
+        "line_no": 3,
+        "cpt": "93000",
+        "billed": "3927.20",
+        "allowed": "2407.56"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "2849.07"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00043",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Chen Okafor",
+      "dob": "1980-08-03",
+      "member_id": "M73083727"
+    },
+    "service_date": "2026-08-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "3245.19",
+        "allowed": "1461.05"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "1280.22",
+        "allowed": "1122.94"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99213",
+        "billed": "3604.69",
+        "allowed": "2857.99"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1461.05"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00111",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Gus Smith",
+      "dob": "1984-02-18",
+      "member_id": "M18087373"
+    },
+    "service_date": "2026-06-16",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "371.69",
+        "allowed": "212.63"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "2258.02",
+        "allowed": "1296.28"
+      },
+      {
+        "line_no": 3,
+        "cpt": "93000",
+        "billed": "3009.70",
+        "allowed": "1737.88"
+      },
+      {
+        "line_no": 4,
+        "cpt": "93000",
+        "billed": "3872.07",
+        "allowed": "1212.20"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "212.63"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00076",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Ivan Okafor",
+      "dob": "1981-06-27",
+      "member_id": "M27152188"
+    },
+    "service_date": "2026-10-03",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "1827.77",
+        "allowed": "637.71"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "1914.06",
+        "allowed": "930.50"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "637.71"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00211",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Ben Smith",
+      "dob": "1975-08-19",
+      "member_id": "M86589761"
+    },
+    "service_date": "2026-09-22",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "1133.23",
+        "allowed": "482.56"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "3679.82",
+        "allowed": "1866.32"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "482.56"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00065",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ben Smith",
+      "dob": "1994-09-12",
+      "member_id": "M25419645"
+    },
+    "service_date": "2026-08-19",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "3568.30",
+        "allowed": "3085.43"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "3860.43",
+        "allowed": "1277.29"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "3227.87",
+        "allowed": "1573.49"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "3085.43"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00217",
+    "payer": "Humana",
+    "patient": {
+      "name": "Jo Kim",
+      "dob": "1942-11-11",
+      "member_id": "M61186964"
+    },
+    "service_date": "2026-06-13",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "562.05",
+        "allowed": "286.44"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "3557.78",
+        "allowed": "1775.80"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "1619.17",
+        "allowed": "697.97"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "2569.61",
+        "allowed": "2307.45"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "286.44"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00236",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Ivan Lee",
+      "dob": "1950-07-21",
+      "member_id": "M10710096"
+    },
+    "service_date": "2026-06-27",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "1410.52",
+        "allowed": "1259.74"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "3778.82",
+        "allowed": "2036.32"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "3536.54",
+        "allowed": "1313.65"
+      },
+      {
+        "line_no": 4,
+        "cpt": "71046",
+        "billed": "2421.44",
+        "allowed": "1864.18"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "1259.74"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00178",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Ben Nguyen",
+      "dob": "1990-07-16",
+      "member_id": "M75645462"
+    },
+    "service_date": "2026-08-03",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "3077.72",
+        "allowed": "1938.34"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "885.25",
+        "allowed": "294.53"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "2321.88",
+        "allowed": "818.64"
+      },
+      {
+        "line_no": 4,
+        "cpt": "80053",
+        "billed": "1126.87",
+        "allowed": "403.64"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1938.34"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00104",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Chen Lee",
+      "dob": "1975-03-14",
+      "member_id": "M97629787"
+    },
+    "service_date": "2026-09-16",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "3591.85",
+        "allowed": "3028.33"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "3028.33"
+      },
+      {
+        "code": "CO-18",
+        "amount": "118.23"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00051",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ana Smith",
+      "dob": "1990-01-10",
+      "member_id": "M58112135"
+    },
+    "service_date": "2026-08-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "2355.26",
+        "allowed": "2089.12"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "2089.12"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00007",
+    "payer": "Humana",
+    "patient": {
+      "name": "Eli Garcia",
+      "dob": "1972-02-28",
+      "member_id": "M93926371"
+    },
+    "service_date": "2026-08-27",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "2080.78",
+        "allowed": "1368.18"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "2854.08",
+        "allowed": "1286.76"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "140.19",
+        "allowed": "99.28"
+      },
+      {
+        "line_no": 4,
+        "cpt": "93000",
+        "billed": "3654.12",
+        "allowed": "3036.11"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "1368.18"
+      },
+      {
+        "code": "CO-18",
+        "amount": "61.82"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00073",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Fatima Nguyen",
+      "dob": "1944-11-28",
+      "member_id": "M22119391"
+    },
+    "service_date": "2026-10-20",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "871.45",
+        "allowed": "491.37"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "2398.44",
+        "allowed": "1628.14"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "3180.74",
+        "allowed": "1061.42"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "491.37"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00100",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Chen Kim",
+      "dob": "1942-10-23",
+      "member_id": "M24749927"
+    },
+    "service_date": "2026-07-01",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "167.22",
+        "allowed": "87.12"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "2263.87",
+        "allowed": "1472.02"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "3209.52",
+        "allowed": "1876.78"
+      },
+      {
+        "line_no": 4,
+        "cpt": "27447",
+        "billed": "3862.21",
+        "allowed": "1277.67"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "87.12"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00156",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ben Lee",
+      "dob": "1985-03-23",
+      "member_id": "M11523452"
+    },
+    "service_date": "2026-07-16",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "2357.94",
+        "allowed": "871.48"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "871.48"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00039",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ivan Okafor",
+      "dob": "1978-10-26",
+      "member_id": "M93002706"
+    },
+    "service_date": "2026-07-25",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "2589.84",
+        "allowed": "1461.40"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "349.36",
+        "allowed": "157.73"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "678.14",
+        "allowed": "537.95"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "2658.16",
+        "allowed": "915.60"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1461.40"
+      },
+      {
+        "code": "CO-197",
+        "amount": "37.91"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00114",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Ana Rossi",
+      "dob": "1978-11-23",
+      "member_id": "M16533225"
+    },
+    "service_date": "2026-07-24",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "248.91",
+        "allowed": "195.57"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "195.57"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00041",
+    "payer": "Humana",
+    "patient": {
+      "name": "Jo Kim",
+      "dob": "1967-02-18",
+      "member_id": "M40173413"
+    },
+    "service_date": "2026-07-09",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "1293.60",
+        "allowed": "611.70"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "611.70"
+      },
+      {
+        "code": "CO-29",
+        "amount": "96.68"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00149",
+    "payer": "Humana",
+    "patient": {
+      "name": "Dana Okafor",
+      "dob": "1981-02-23",
+      "member_id": "M22775337"
+    },
+    "service_date": "2026-06-07",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "2029.53",
+        "allowed": "1418.04"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "1418.04"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00143",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Hana Patel",
+      "dob": "1976-02-09",
+      "member_id": "M82894477"
+    },
+    "service_date": "2026-08-18",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "513.43",
+        "allowed": "328.20"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "1611.39",
+        "allowed": "515.03"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "328.20"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00141",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Gus Okafor",
+      "dob": "1951-08-21",
+      "member_id": "M82125824"
+    },
+    "service_date": "2026-07-18",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "1039.68",
+        "allowed": "544.78"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "544.78"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00232",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Jo Patel",
+      "dob": "1951-08-20",
+      "member_id": "M90505645"
+    },
+    "service_date": "2026-06-26",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "1284.88",
+        "allowed": "677.04"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "677.04"
+      },
+      {
+        "code": "PR-1",
+        "amount": "175.26"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00204",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Chen Patel",
+      "dob": "1988-08-11",
+      "member_id": "M42331952"
+    },
+    "service_date": "2026-08-09",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "2606.69",
+        "allowed": "1322.76"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "859.37",
+        "allowed": "690.43"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "1322.76"
+      },
+      {
+        "code": "CO-97",
+        "amount": "175.66"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00119",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Dana Smith",
+      "dob": "1989-05-13",
+      "member_id": "M72579077"
+    },
+    "service_date": "2026-10-21",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "1175.18",
+        "allowed": "965.63"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "1669.57",
+        "allowed": "1459.56"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "1190.48",
+        "allowed": "1026.55"
+      },
+      {
+        "line_no": 4,
+        "cpt": "27447",
+        "billed": "3995.79",
+        "allowed": "3595.18"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "965.63"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00023",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Gus Nguyen",
+      "dob": "1975-03-07",
+      "member_id": "M66431351"
+    },
+    "service_date": "2026-09-22",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "1989.56",
+        "allowed": "1111.72"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "3347.12",
+        "allowed": "1634.56"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "1111.72"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00210",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Jo Nguyen",
+      "dob": "1993-12-18",
+      "member_id": "M52132393"
+    },
+    "service_date": "2026-10-21",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "2722.98",
+        "allowed": "2256.90"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "3272.88",
+        "allowed": "2780.46"
+      },
+      {
+        "line_no": 3,
+        "cpt": "36415",
+        "billed": "1514.43",
+        "allowed": "815.86"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "2256.90"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00130",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Ben Smith",
+      "dob": "1956-04-24",
+      "member_id": "M93890601"
+    },
+    "service_date": "2026-09-20",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "3673.02",
+        "allowed": "1940.97"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "1489.90",
+        "allowed": "716.16"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1940.97"
+      },
+      {
+        "code": "CO-18",
+        "amount": "100.42"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00207",
+    "payer": "Humana",
+    "patient": {
+      "name": "Eli Smith",
+      "dob": "1984-02-02",
+      "member_id": "M32032560"
+    },
+    "service_date": "2026-09-05",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "364.55",
+        "allowed": "287.98"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "1820.49",
+        "allowed": "1158.00"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "3837.35",
+        "allowed": "2664.27"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "287.98"
+      },
+      {
+        "code": "CO-29",
+        "amount": "10.71"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00095",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Ben Nguyen",
+      "dob": "1968-04-05",
+      "member_id": "M22993840"
+    },
+    "service_date": "2026-06-10",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "2515.01",
+        "allowed": "1062.37"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "1718.83",
+        "allowed": "1404.10"
+      },
+      {
+        "line_no": 3,
+        "cpt": "36415",
+        "billed": "3929.32",
+        "allowed": "3508.15"
+      },
+      {
+        "line_no": 4,
+        "cpt": "36415",
+        "billed": "2170.42",
+        "allowed": "821.42"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "1062.37"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00019",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Dana Patel",
+      "dob": "1962-09-28",
+      "member_id": "M64543049"
+    },
+    "service_date": "2026-10-24",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "2972.39",
+        "allowed": "2150.23"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "130.69",
+        "allowed": "47.98"
+      },
+      {
+        "line_no": 3,
+        "cpt": "36415",
+        "billed": "2940.46",
+        "allowed": "945.70"
+      },
+      {
+        "line_no": 4,
+        "cpt": "45378",
+        "billed": "3134.02",
+        "allowed": "1979.18"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "2150.23"
+      },
+      {
+        "code": "CO-45",
+        "amount": "23.07"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00136",
+    "payer": "Humana",
+    "patient": {
+      "name": "Jo Garcia",
+      "dob": "1962-01-16",
+      "member_id": "M24032377"
+    },
+    "service_date": "2026-08-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "2757.41",
+        "allowed": "2062.85"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "3123.58",
+        "allowed": "2225.86"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "2062.85"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00195",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Fatima Okafor",
+      "dob": "1996-11-05",
+      "member_id": "M56000822"
+    },
+    "service_date": "2026-09-12",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "1716.26",
+        "allowed": "647.65"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "2718.93",
+        "allowed": "1776.01"
+      },
+      {
+        "line_no": 3,
+        "cpt": "93000",
+        "billed": "422.29",
+        "allowed": "335.43"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "647.65"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00201",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Gus Okafor",
+      "dob": "1969-05-27",
+      "member_id": "M61769856"
+    },
+    "service_date": "2026-09-26",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "3557.89",
+        "allowed": "2448.96"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "1954.47",
+        "allowed": "1635.34"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "2448.96"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00160",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Eli Nguyen",
+      "dob": "1960-02-18",
+      "member_id": "M71303434"
+    },
+    "service_date": "2026-06-12",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "1020.28",
+        "allowed": "442.71"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "442.71"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00144",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Hana Nguyen",
+      "dob": "1962-02-15",
+      "member_id": "M25755285"
+    },
+    "service_date": "2026-07-07",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "3849.52",
+        "allowed": "2174.29"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "2174.29"
+      },
+      {
+        "code": "CO-29",
+        "amount": "107.55"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00035",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Fatima Nguyen",
+      "dob": "1996-10-23",
+      "member_id": "M47080140"
+    },
+    "service_date": "2026-10-01",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "2516.41",
+        "allowed": "1615.31"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "1843.68",
+        "allowed": "584.85"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1615.31"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00134",
+    "payer": "Humana",
+    "patient": {
+      "name": "Gus Lee",
+      "dob": "1990-06-23",
+      "member_id": "M82062301"
+    },
+    "service_date": "2026-10-21",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "3829.89",
+        "allowed": "2121.29"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "467.79",
+        "allowed": "266.38"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "2121.29"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00013",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Chen Okafor",
+      "dob": "1971-08-07",
+      "member_id": "M63826716"
+    },
+    "service_date": "2026-06-06",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "2505.50",
+        "allowed": "1127.18"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "2403.28",
+        "allowed": "1886.13"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "593.32",
+        "allowed": "196.01"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "1127.18"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00234",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ana Patel",
+      "dob": "1973-01-13",
+      "member_id": "M97851693"
+    },
+    "service_date": "2026-07-23",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "2078.77",
+        "allowed": "1060.82"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "2310.78",
+        "allowed": "878.86"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "1299.03",
+        "allowed": "1099.05"
+      },
+      {
+        "line_no": 4,
+        "cpt": "70553",
+        "billed": "1565.13",
+        "allowed": "1031.38"
+      }
+    ],
+    "adjustments": [],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00208",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Ben Rossi",
+      "dob": "1969-11-19",
+      "member_id": "M77672253"
+    },
+    "service_date": "2026-07-16",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "640.78",
+        "allowed": "290.00"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "1063.26",
+        "allowed": "396.01"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "1210.30",
+        "allowed": "694.99"
+      },
+      {
+        "line_no": 4,
+        "cpt": "45378",
+        "billed": "3838.03",
+        "allowed": "1929.61"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "290.00"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00153",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Eli Lee",
+      "dob": "1990-04-16",
+      "member_id": "M61792685"
+    },
+    "service_date": "2026-06-08",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "3531.94",
+        "allowed": "2915.60"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "2915.60"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00017",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ben Garcia",
+      "dob": "1956-02-04",
+      "member_id": "M84252420"
+    },
+    "service_date": "2026-07-09",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "440.66",
+        "allowed": "364.67"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "1574.15",
+        "allowed": "621.24"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "3768.57",
+        "allowed": "1814.61"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "364.67"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00213",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Gus Kim",
+      "dob": "1972-12-10",
+      "member_id": "M99186817"
+    },
+    "service_date": "2026-06-13",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "1960.52",
+        "allowed": "1545.70"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "1545.70"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00166",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ben Nguyen",
+      "dob": "1998-02-01",
+      "member_id": "M18653290"
+    },
+    "service_date": "2026-07-21",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "576.63",
+        "allowed": "332.85"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "716.76",
+        "allowed": "220.17"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "332.85"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00058",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Ben Rossi",
+      "dob": "1979-07-09",
+      "member_id": "M14391105"
+    },
+    "service_date": "2026-08-07",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "2662.77",
+        "allowed": "984.35"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "2898.29",
+        "allowed": "1105.40"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "2025.16",
+        "allowed": "1422.25"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "984.35"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00036",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ben Nguyen",
+      "dob": "1954-07-23",
+      "member_id": "M42655866"
+    },
+    "service_date": "2026-08-22",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "528.85",
+        "allowed": "235.24"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "2641.55",
+        "allowed": "1672.38"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "235.24"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00185",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Gus Patel",
+      "dob": "1983-01-08",
+      "member_id": "M59991642"
+    },
+    "service_date": "2026-09-20",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "791.19",
+        "allowed": "607.88"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "3061.48",
+        "allowed": "971.62"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "1132.38",
+        "allowed": "908.38"
+      },
+      {
+        "line_no": 4,
+        "cpt": "36415",
+        "billed": "253.38",
+        "allowed": "145.41"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "607.88"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00110",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Ivan Rossi",
+      "dob": "1947-11-07",
+      "member_id": "M88268756"
+    },
+    "service_date": "2026-09-03",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "403.79",
+        "allowed": "321.93"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "321.93"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00176",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ivan Patel",
+      "dob": "1961-10-20",
+      "member_id": "M74791834"
+    },
+    "service_date": "2026-06-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "2065.54",
+        "allowed": "1054.95"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "611.77",
+        "allowed": "487.75"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99213",
+        "billed": "932.78",
+        "allowed": "532.41"
+      },
+      {
+        "line_no": 4,
+        "cpt": "93000",
+        "billed": "1626.17",
+        "allowed": "507.44"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "1054.95"
+      },
+      {
+        "code": "CO-97",
+        "amount": "133.03"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00132",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Fatima Patel",
+      "dob": "1999-10-07",
+      "member_id": "M89487366"
+    },
+    "service_date": "2026-10-06",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "2167.92",
+        "allowed": "1910.45"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "3932.85",
+        "allowed": "2819.75"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "1910.45"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00097",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Gus Rossi",
+      "dob": "1988-09-09",
+      "member_id": "M93650068"
+    },
+    "service_date": "2026-10-04",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "1578.14",
+        "allowed": "981.63"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "2339.30",
+        "allowed": "889.78"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "3894.23",
+        "allowed": "2022.92"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "1998.56",
+        "allowed": "653.82"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "981.63"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00090",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Eli Garcia",
+      "dob": "1985-12-23",
+      "member_id": "M95590648"
+    },
+    "service_date": "2026-07-26",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "468.24",
+        "allowed": "267.47"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "540.27",
+        "allowed": "424.82"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "267.47"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00219",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Dana Nguyen",
+      "dob": "1966-07-15",
+      "member_id": "M94586329"
+    },
+    "service_date": "2026-09-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "624.87",
+        "allowed": "264.54"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "3469.84",
+        "allowed": "2741.36"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99213",
+        "billed": "3995.85",
+        "allowed": "2843.55"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "2487.66",
+        "allowed": "1816.29"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "264.54"
+      },
+      {
+        "code": "CO-97",
+        "amount": "92.54"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00027",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Hana Nguyen",
+      "dob": "1988-04-27",
+      "member_id": "M95585469"
+    },
+    "service_date": "2026-08-25",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "3580.02",
+        "allowed": "2214.88"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "3201.88",
+        "allowed": "1570.13"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "3292.06",
+        "allowed": "2597.45"
+      },
+      {
+        "line_no": 4,
+        "cpt": "70553",
+        "billed": "2317.35",
+        "allowed": "1850.04"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "2214.88"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00055",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Fatima Okafor",
+      "dob": "1951-04-05",
+      "member_id": "M82398083"
+    },
+    "service_date": "2026-08-17",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "3369.68",
+        "allowed": "2317.68"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "2317.68"
+      },
+      {
+        "code": "CO-45",
+        "amount": "53.06"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00184",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Hana Smith",
+      "dob": "1992-01-17",
+      "member_id": "M31336920"
+    },
+    "service_date": "2026-06-10",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "784.56",
+        "allowed": "376.81"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "1762.27",
+        "allowed": "813.56"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "376.81"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00212",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Eli Garcia",
+      "dob": "1993-01-23",
+      "member_id": "M49613096"
+    },
+    "service_date": "2026-07-25",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "2294.52",
+        "allowed": "1801.16"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "638.21",
+        "allowed": "201.14"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "358.21",
+        "allowed": "251.52"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "1801.16"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00162",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Ana Garcia",
+      "dob": "1985-05-03",
+      "member_id": "M15892193"
+    },
+    "service_date": "2026-07-28",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "3414.16",
+        "allowed": "2744.11"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "1836.45",
+        "allowed": "552.55"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "3949.67",
+        "allowed": "2908.26"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "2744.11"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00044",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Gus Lee",
+      "dob": "1982-09-15",
+      "member_id": "M65465150"
+    },
+    "service_date": "2026-06-07",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "1763.26",
+        "allowed": "1237.95"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "1809.12",
+        "allowed": "989.57"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "1591.09",
+        "allowed": "1109.87"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "1237.95"
+      },
+      {
+        "code": "CO-50",
+        "amount": "113.06"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00079",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Eli Rossi",
+      "dob": "1997-09-05",
+      "member_id": "M68716573"
+    },
+    "service_date": "2026-06-08",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "2716.67",
+        "allowed": "1674.76"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "1126.99",
+        "allowed": "879.90"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "1390.73",
+        "allowed": "460.76"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99214",
+        "billed": "2026.22",
+        "allowed": "1282.04"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "1674.76"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00152",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Ben Kim",
+      "dob": "1975-10-20",
+      "member_id": "M91549765"
+    },
+    "service_date": "2026-08-25",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "3171.06",
+        "allowed": "2340.26"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "2340.26"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00121",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Hana Rossi",
+      "dob": "1969-03-24",
+      "member_id": "M57268285"
+    },
+    "service_date": "2026-07-05",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "1108.60",
+        "allowed": "551.99"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "3067.33",
+        "allowed": "2453.92"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "551.99"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00148",
+    "payer": "Humana",
+    "patient": {
+      "name": "Eli Garcia",
+      "dob": "1995-05-03",
+      "member_id": "M97857309"
+    },
+    "service_date": "2026-08-09",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "1882.18",
+        "allowed": "1574.43"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "320.87",
+        "allowed": "115.43"
+      },
+      {
+        "line_no": 3,
+        "cpt": "71046",
+        "billed": "165.36",
+        "allowed": "61.93"
+      },
+      {
+        "line_no": 4,
+        "cpt": "45378",
+        "billed": "2393.60",
+        "allowed": "1373.71"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "1574.43"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00191",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Jo Nguyen",
+      "dob": "1969-02-16",
+      "member_id": "M17204398"
+    },
+    "service_date": "2026-10-19",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "3643.65",
+        "allowed": "3059.77"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "1245.24",
+        "allowed": "639.02"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "3059.77"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00188",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Ben Rossi",
+      "dob": "1944-06-09",
+      "member_id": "M95979171"
+    },
+    "service_date": "2026-08-28",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "118.52",
+        "allowed": "71.93"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "71.93"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00048",
+    "payer": "Humana",
+    "patient": {
+      "name": "Chen Rossi",
+      "dob": "1942-03-17",
+      "member_id": "M89212676"
+    },
+    "service_date": "2026-08-28",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "2233.64",
+        "allowed": "728.59"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "3777.42",
+        "allowed": "3203.47"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "728.59"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00233",
+    "payer": "Humana",
+    "patient": {
+      "name": "Gus Okafor",
+      "dob": "1963-01-23",
+      "member_id": "M81110769"
+    },
+    "service_date": "2026-09-08",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "568.58",
+        "allowed": "335.09"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "335.09"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00093",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Jo Smith",
+      "dob": "1993-10-02",
+      "member_id": "M13808225"
+    },
+    "service_date": "2026-06-02",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "493.45",
+        "allowed": "222.23"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "1518.91",
+        "allowed": "569.75"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "3301.37",
+        "allowed": "2047.14"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "222.23"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00084",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Hana Rossi",
+      "dob": "1980-03-26",
+      "member_id": "M28099607"
+    },
+    "service_date": "2026-06-23",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "3998.09",
+        "allowed": "1238.39"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "1887.75",
+        "allowed": "839.44"
+      },
+      {
+        "line_no": 3,
+        "cpt": "36415",
+        "billed": "3130.84",
+        "allowed": "2320.30"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1238.39"
+      },
+      {
+        "code": "PR-1",
+        "amount": "120.93"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00026",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ivan Rossi",
+      "dob": "1943-09-08",
+      "member_id": "M26288475"
+    },
+    "service_date": "2026-09-05",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "3284.83",
+        "allowed": "2660.20"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "2467.69",
+        "allowed": "1353.93"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "3846.20",
+        "allowed": "2760.85"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "2175.33",
+        "allowed": "971.05"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "2660.20"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00231",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Jo Nguyen",
+      "dob": "1950-12-22",
+      "member_id": "M55992559"
+    },
+    "service_date": "2026-09-20",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "2435.11",
+        "allowed": "1616.71"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "2605.32",
+        "allowed": "1048.22"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1616.71"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00054",
+    "payer": "Humana",
+    "patient": {
+      "name": "Dana Nguyen",
+      "dob": "1983-12-25",
+      "member_id": "M98473848"
+    },
+    "service_date": "2026-07-21",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "195.02",
+        "allowed": "172.94"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "1519.06",
+        "allowed": "463.10"
+      },
+      {
+        "line_no": 3,
+        "cpt": "93000",
+        "billed": "3259.31",
+        "allowed": "2435.04"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "172.94"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00004",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ivan Kim",
+      "dob": "1983-06-27",
+      "member_id": "M17507864"
+    },
+    "service_date": "2026-07-27",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "3412.81",
+        "allowed": "2731.84"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "2020.81",
+        "allowed": "1037.00"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "3759.55",
+        "allowed": "3240.70"
+      },
+      {
+        "line_no": 4,
+        "cpt": "70553",
+        "billed": "3273.60",
+        "allowed": "2229.28"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "2731.84"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00218",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Chen Lee",
+      "dob": "1980-02-07",
+      "member_id": "M99970857"
+    },
+    "service_date": "2026-07-28",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "2912.39",
+        "allowed": "2138.82"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "2789.87",
+        "allowed": "2213.11"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "2776.46",
+        "allowed": "2170.33"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "2138.82"
+      },
+      {
+        "code": "CO-29",
+        "amount": "114.96"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00167",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Chen Nguyen",
+      "dob": "1957-08-05",
+      "member_id": "M14650569"
+    },
+    "service_date": "2026-10-20",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "755.23",
+        "allowed": "268.25"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "722.39",
+        "allowed": "235.22"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "345.48",
+        "allowed": "138.47"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "3878.10",
+        "allowed": "2082.54"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "268.25"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00145",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Eli Nguyen",
+      "dob": "1976-05-28",
+      "member_id": "M79043610"
+    },
+    "service_date": "2026-06-05",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "3806.39",
+        "allowed": "2535.65"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "950.22",
+        "allowed": "636.35"
+      },
+      {
+        "line_no": 3,
+        "cpt": "36415",
+        "billed": "1164.97",
+        "allowed": "912.48"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "2535.65"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00220",
+    "payer": "Humana",
+    "patient": {
+      "name": "Eli Patel",
+      "dob": "1958-08-13",
+      "member_id": "M63031203"
+    },
+    "service_date": "2026-06-16",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "168.55",
+        "allowed": "89.96"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "2884.07",
+        "allowed": "875.43"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "3990.93",
+        "allowed": "2599.55"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "89.96"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00179",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Fatima Okafor",
+      "dob": "1988-10-08",
+      "member_id": "M84303190"
+    },
+    "service_date": "2026-06-27",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "1049.31",
+        "allowed": "548.38"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "2016.72",
+        "allowed": "830.79"
+      },
+      {
+        "line_no": 3,
+        "cpt": "93000",
+        "billed": "1460.42",
+        "allowed": "823.45"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "1266.16",
+        "allowed": "1015.77"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "548.38"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00240",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Ben Nguyen",
+      "dob": "1961-02-26",
+      "member_id": "M78892172"
+    },
+    "service_date": "2026-08-18",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "1901.77",
+        "allowed": "1669.70"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "1266.44",
+        "allowed": "840.69"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99213",
+        "billed": "2464.24",
+        "allowed": "2113.89"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "1669.70"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00045",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ivan Okafor",
+      "dob": "1945-04-27",
+      "member_id": "M25228493"
+    },
+    "service_date": "2026-09-04",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "3344.39",
+        "allowed": "2521.22"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "350.59",
+        "allowed": "148.00"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "766.88",
+        "allowed": "656.91"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "2521.22"
+      },
+      {
+        "code": "CO-29",
+        "amount": "61.89"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00101",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Gus Smith",
+      "dob": "1951-08-18",
+      "member_id": "M55946354"
+    },
+    "service_date": "2026-10-12",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "1724.65",
+        "allowed": "950.74"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "3700.21",
+        "allowed": "1562.73"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99213",
+        "billed": "3285.90",
+        "allowed": "2800.61"
+      },
+      {
+        "line_no": 4,
+        "cpt": "80053",
+        "billed": "3780.29",
+        "allowed": "1447.28"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "950.74"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00089",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Hana Kim",
+      "dob": "1979-05-23",
+      "member_id": "M75927774"
+    },
+    "service_date": "2026-07-04",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "2166.84",
+        "allowed": "1058.79"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "1388.68",
+        "allowed": "1216.92"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "3937.05",
+        "allowed": "1620.60"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "1058.79"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00129",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Gus Lee",
+      "dob": "1958-07-13",
+      "member_id": "M21368176"
+    },
+    "service_date": "2026-10-08",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "1967.00",
+        "allowed": "1488.64"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "774.71",
+        "allowed": "272.99"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "2433.23",
+        "allowed": "1543.13"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99214",
+        "billed": "2219.32",
+        "allowed": "803.34"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "1488.64"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00009",
+    "payer": "Humana",
+    "patient": {
+      "name": "Eli Okafor",
+      "dob": "1982-11-12",
+      "member_id": "M68800797"
+    },
+    "service_date": "2026-10-15",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "442.87",
+        "allowed": "392.73"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "739.34",
+        "allowed": "278.76"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "2962.55",
+        "allowed": "1182.28"
+      },
+      {
+        "line_no": 4,
+        "cpt": "80053",
+        "billed": "3260.29",
+        "allowed": "1805.82"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "392.73"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00172",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Fatima Okafor",
+      "dob": "1977-02-11",
+      "member_id": "M50502233"
+    },
+    "service_date": "2026-08-05",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "1776.53",
+        "allowed": "596.44"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "3155.52",
+        "allowed": "2280.87"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "596.44"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00123",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Jo Nguyen",
+      "dob": "1992-06-09",
+      "member_id": "M63270536"
+    },
+    "service_date": "2026-06-12",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "162.47",
+        "allowed": "49.39"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "2236.59",
+        "allowed": "686.88"
+      },
+      {
+        "line_no": 3,
+        "cpt": "93000",
+        "billed": "3866.36",
+        "allowed": "1797.26"
+      },
+      {
+        "line_no": 4,
+        "cpt": "45378",
+        "billed": "169.87",
+        "allowed": "102.15"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "49.39"
+      },
+      {
+        "code": "CO-50",
+        "amount": "181.83"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00109",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Jo Patel",
+      "dob": "1973-08-17",
+      "member_id": "M58557943"
+    },
+    "service_date": "2026-06-19",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "2587.05",
+        "allowed": "1013.89"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "2260.22",
+        "allowed": "1629.99"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "1013.89"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00135",
+    "payer": "Humana",
+    "patient": {
+      "name": "Gus Smith",
+      "dob": "1990-07-04",
+      "member_id": "M11415698"
+    },
+    "service_date": "2026-06-09",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "653.41",
+        "allowed": "497.49"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "497.49"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00014",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Ivan Garcia",
+      "dob": "1943-09-03",
+      "member_id": "M34941004"
+    },
+    "service_date": "2026-06-20",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "91.30",
+        "allowed": "81.37"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "2465.55",
+        "allowed": "1161.64"
+      },
+      {
+        "line_no": 3,
+        "cpt": "71046",
+        "billed": "3550.11",
+        "allowed": "2595.29"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "1075.61",
+        "allowed": "514.17"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "81.37"
+      },
+      {
+        "code": "CO-45",
+        "amount": "28.73"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00033",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Ben Smith",
+      "dob": "1940-07-27",
+      "member_id": "M75793759"
+    },
+    "service_date": "2026-06-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "614.25",
+        "allowed": "441.23"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "3667.48",
+        "allowed": "2421.44"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "441.23"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00165",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Eli Garcia",
+      "dob": "1941-07-28",
+      "member_id": "M70693413"
+    },
+    "service_date": "2026-10-24",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "3774.68",
+        "allowed": "2710.70"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "1207.32",
+        "allowed": "967.73"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "857.64",
+        "allowed": "304.23"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "2710.70"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00228",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ben Nguyen",
+      "dob": "1964-04-17",
+      "member_id": "M64471218"
+    },
+    "service_date": "2026-08-27",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "621.19",
+        "allowed": "448.65"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "3401.71",
+        "allowed": "2713.84"
+      },
+      {
+        "line_no": 3,
+        "cpt": "71046",
+        "billed": "3113.69",
+        "allowed": "1951.07"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "448.65"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00102",
+    "payer": "Humana",
+    "patient": {
+      "name": "Eli Nguyen",
+      "dob": "1947-10-22",
+      "member_id": "M82905845"
+    },
+    "service_date": "2026-09-13",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "3278.55",
+        "allowed": "1936.01"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "1542.79",
+        "allowed": "979.44"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "1640.35",
+        "allowed": "1251.10"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "1936.01"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00072",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Hana Rossi",
+      "dob": "1983-10-21",
+      "member_id": "M95268296"
+    },
+    "service_date": "2026-10-11",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "1318.72",
+        "allowed": "476.96"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "1114.27",
+        "allowed": "450.28"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "476.96"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00131",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Gus Garcia",
+      "dob": "1959-06-20",
+      "member_id": "M36957830"
+    },
+    "service_date": "2026-09-11",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "2480.51",
+        "allowed": "903.36"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "115.48",
+        "allowed": "100.39"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "903.36"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00097",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Gus Rossi",
+      "dob": "1988-09-09",
+      "member_id": "M93650068"
+    },
+    "service_date": "2026-10-04",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "1578.14",
+        "allowed": "981.63"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "2339.30",
+        "allowed": "889.78"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "3894.23",
+        "allowed": "2022.92"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "1998.56",
+        "allowed": "653.82"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "981.63"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00126",
+    "payer": "Humana",
+    "patient": {
+      "name": "Gus Patel",
+      "dob": "1959-03-19",
+      "member_id": "M42275631"
+    },
+    "service_date": "2026-10-27",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "1020.33",
+        "allowed": "874.69"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "874.69"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00071",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ben Patel",
+      "dob": "1973-09-07",
+      "member_id": "M56892354"
+    },
+    "service_date": "2026-08-24",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "1355.67",
+        "allowed": "761.08"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "761.08"
+      },
+      {
+        "code": "CO-197",
+        "amount": "121.25"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00148",
+    "payer": "Humana",
+    "patient": {
+      "name": "Eli Garcia",
+      "dob": "1995-05-03",
+      "member_id": "M97857309"
+    },
+    "service_date": "2026-08-09",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "1882.18",
+        "allowed": "1574.43"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "320.87",
+        "allowed": "115.43"
+      },
+      {
+        "line_no": 3,
+        "cpt": "71046",
+        "billed": "165.36",
+        "allowed": "61.93"
+      },
+      {
+        "line_no": 4,
+        "cpt": "45378",
+        "billed": "2393.60",
+        "allowed": "1373.71"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "1574.43"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00196",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ben Smith",
+      "dob": "1985-11-26",
+      "member_id": "M15014834"
+    },
+    "service_date": "2026-09-21",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "944.46",
+        "allowed": "820.59"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "180.26",
+        "allowed": "78.78"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "820.59"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00203",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Dana Smith",
+      "dob": "1973-09-23",
+      "member_id": "M92978636"
+    },
+    "service_date": "2026-06-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "1451.60",
+        "allowed": "1005.94"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "1005.94"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00183",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Fatima Nguyen",
+      "dob": "1959-05-27",
+      "member_id": "M75984013"
+    },
+    "service_date": "2026-06-28",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "1523.96",
+        "allowed": "825.66"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "283.33",
+        "allowed": "152.28"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "825.66"
+      },
+      {
+        "code": "CO-22",
+        "amount": "98.00"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00096",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Dana Smith",
+      "dob": "1943-01-10",
+      "member_id": "M76423575"
+    },
+    "service_date": "2026-10-27",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "3306.35",
+        "allowed": "1821.40"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "1796.70",
+        "allowed": "1545.61"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "1075.27",
+        "allowed": "814.92"
+      },
+      {
+        "line_no": 4,
+        "cpt": "93000",
+        "billed": "2778.64",
+        "allowed": "1611.86"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "1821.40"
+      },
+      {
+        "code": "CO-18",
+        "amount": "175.62"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00235",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Dana Okafor",
+      "dob": "1975-09-16",
+      "member_id": "M33987338"
+    },
+    "service_date": "2026-08-18",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "2223.52",
+        "allowed": "1150.36"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "2313.84",
+        "allowed": "1598.74"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "1449.97",
+        "allowed": "1178.81"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "1150.36"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00011",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ben Patel",
+      "dob": "1982-07-12",
+      "member_id": "M66851760"
+    },
+    "service_date": "2026-09-15",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "451.49",
+        "allowed": "274.73"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "3587.37",
+        "allowed": "2121.03"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "773.69",
+        "allowed": "567.90"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "274.73"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00139",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ben Patel",
+      "dob": "1991-09-06",
+      "member_id": "M59095909"
+    },
+    "service_date": "2026-08-07",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "2502.49",
+        "allowed": "1098.88"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "3381.75",
+        "allowed": "1388.79"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "2153.99",
+        "allowed": "683.92"
+      },
+      {
+        "line_no": 4,
+        "cpt": "45378",
+        "billed": "2437.06",
+        "allowed": "1597.06"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "1098.88"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00002",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Fatima Nguyen",
+      "dob": "1949-04-25",
+      "member_id": "M55176955"
+    },
+    "service_date": "2026-06-03",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "3834.00",
+        "allowed": "2645.19"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "2279.49",
+        "allowed": "985.34"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "2645.19"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00158",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Dana Lee",
+      "dob": "1970-06-13",
+      "member_id": "M30144023"
+    },
+    "service_date": "2026-07-28",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "2007.74",
+        "allowed": "791.82"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "3088.95",
+        "allowed": "2176.08"
+      }
+    ],
+    "adjustments": [],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00127",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Jo Okafor",
+      "dob": "1989-06-01",
+      "member_id": "M95110541"
+    },
+    "service_date": "2026-08-26",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "3629.61",
+        "allowed": "3041.31"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "2092.45",
+        "allowed": "1576.38"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "3693.97",
+        "allowed": "2713.21"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "3988.33",
+        "allowed": "3528.05"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "3041.31"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00170",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Dana Okafor",
+      "dob": "1962-03-06",
+      "member_id": "M41749355"
+    },
+    "service_date": "2026-10-11",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "1379.48",
+        "allowed": "957.52"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "957.52"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00227",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ivan Smith",
+      "dob": "1964-08-15",
+      "member_id": "M16232730"
+    },
+    "service_date": "2026-06-21",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "3938.33",
+        "allowed": "2911.22"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "291.91",
+        "allowed": "125.90"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "2911.22"
+      },
+      {
+        "code": "CO-45",
+        "amount": "86.68"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00021",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ivan Smith",
+      "dob": "1941-02-09",
+      "member_id": "M33966966"
+    },
+    "service_date": "2026-10-09",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "1246.19",
+        "allowed": "523.08"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "1913.21",
+        "allowed": "924.30"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "1248.76",
+        "allowed": "392.36"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99214",
+        "billed": "2169.10",
+        "allowed": "1077.95"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "523.08"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00031",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ana Garcia",
+      "dob": "1955-03-16",
+      "member_id": "M99853245"
+    },
+    "service_date": "2026-06-19",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "1914.80",
+        "allowed": "832.04"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "832.04"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00028",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Gus Okafor",
+      "dob": "1961-09-15",
+      "member_id": "M65804273"
+    },
+    "service_date": "2026-06-07",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "3365.96",
+        "allowed": "1492.96"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "486.23",
+        "allowed": "354.04"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "1504.56",
+        "allowed": "754.55"
+      },
+      {
+        "line_no": 4,
+        "cpt": "80053",
+        "billed": "502.45",
+        "allowed": "192.45"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "1492.96"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00040",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Chen Lee",
+      "dob": "1966-08-23",
+      "member_id": "M89699989"
+    },
+    "service_date": "2026-09-10",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "2441.99",
+        "allowed": "2063.73"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "3165.56",
+        "allowed": "2830.07"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "3061.25",
+        "allowed": "2059.05"
+      },
+      {
+        "line_no": 4,
+        "cpt": "93000",
+        "billed": "1169.40",
+        "allowed": "789.71"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "2063.73"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00092",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ben Garcia",
+      "dob": "1959-03-06",
+      "member_id": "M53306792"
+    },
+    "service_date": "2026-07-12",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "3094.13",
+        "allowed": "1065.16"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "3447.70",
+        "allowed": "1187.73"
+      },
+      {
+        "line_no": 3,
+        "cpt": "71046",
+        "billed": "3645.72",
+        "allowed": "2225.41"
+      },
+      {
+        "line_no": 4,
+        "cpt": "71046",
+        "billed": "2970.41",
+        "allowed": "2031.39"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1065.16"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00159",
+    "payer": "Humana",
+    "patient": {
+      "name": "Fatima Nguyen",
+      "dob": "1992-02-19",
+      "member_id": "M60037465"
+    },
+    "service_date": "2026-06-17",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "2978.60",
+        "allowed": "2328.88"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "2328.88"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00216",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Fatima Kim",
+      "dob": "1951-09-03",
+      "member_id": "M77798790"
+    },
+    "service_date": "2026-07-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "3358.72",
+        "allowed": "2248.21"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "2248.21"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00197",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Chen Kim",
+      "dob": "1984-11-21",
+      "member_id": "M11248835"
+    },
+    "service_date": "2026-08-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "2883.54",
+        "allowed": "1943.16"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "3550.62",
+        "allowed": "1295.51"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "332.89",
+        "allowed": "237.63"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "1943.16"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00225",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ana Okafor",
+      "dob": "1989-10-07",
+      "member_id": "M14919926"
+    },
+    "service_date": "2026-10-09",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "1960.83",
+        "allowed": "1499.76"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "2972.34",
+        "allowed": "1085.79"
+      },
+      {
+        "line_no": 3,
+        "cpt": "71046",
+        "billed": "1551.23",
+        "allowed": "1264.61"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99214",
+        "billed": "2903.90",
+        "allowed": "1213.42"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "1499.76"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00053",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Hana Patel",
+      "dob": "1955-07-19",
+      "member_id": "M58178682"
+    },
+    "service_date": "2026-10-10",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "467.24",
+        "allowed": "264.01"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "3160.56",
+        "allowed": "1515.46"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "264.01"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00215",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Ana Smith",
+      "dob": "1969-12-05",
+      "member_id": "M15360735"
+    },
+    "service_date": "2026-07-11",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "2057.60",
+        "allowed": "667.45"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "667.45"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00062",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ana Rossi",
+      "dob": "1994-07-14",
+      "member_id": "M24490391"
+    },
+    "service_date": "2026-09-23",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "2449.81",
+        "allowed": "1475.53"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "1475.53"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00193",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Chen Okafor",
+      "dob": "1980-07-13",
+      "member_id": "M67582820"
+    },
+    "service_date": "2026-09-13",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "830.90",
+        "allowed": "407.00"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "503.68",
+        "allowed": "298.45"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99213",
+        "billed": "1723.19",
+        "allowed": "1172.97"
+      },
+      {
+        "line_no": 4,
+        "cpt": "71046",
+        "billed": "2450.06",
+        "allowed": "1137.11"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "407.00"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00061",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Ivan Patel",
+      "dob": "1987-02-16",
+      "member_id": "M70166480"
+    },
+    "service_date": "2026-08-17",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "656.33",
+        "allowed": "457.22"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "771.02",
+        "allowed": "238.18"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "457.22"
+      },
+      {
+        "code": "CO-197",
+        "amount": "27.17"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00052",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Hana Nguyen",
+      "dob": "1969-05-22",
+      "member_id": "M11261301"
+    },
+    "service_date": "2026-09-10",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "1360.29",
+        "allowed": "841.61"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "971.20",
+        "allowed": "393.38"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "841.61"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00189",
+    "payer": "Humana",
+    "patient": {
+      "name": "Hana Nguyen",
+      "dob": "1956-07-13",
+      "member_id": "M62113377"
+    },
+    "service_date": "2026-06-19",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "1449.16",
+        "allowed": "1005.24"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "1067.54",
+        "allowed": "416.30"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "377.66",
+        "allowed": "295.81"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "1005.24"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00128",
+    "payer": "Humana",
+    "patient": {
+      "name": "Chen Okafor",
+      "dob": "1960-06-04",
+      "member_id": "M22283664"
+    },
+    "service_date": "2026-06-10",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "2652.17",
+        "allowed": "1158.69"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "2048.31",
+        "allowed": "1145.23"
+      },
+      {
+        "line_no": 3,
+        "cpt": "93000",
+        "billed": "529.28",
+        "allowed": "404.00"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99214",
+        "billed": "1372.10",
+        "allowed": "998.70"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "1158.69"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00049",
+    "payer": "Humana",
+    "patient": {
+      "name": "Chen Patel",
+      "dob": "1970-05-11",
+      "member_id": "M93652460"
+    },
+    "service_date": "2026-09-21",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "2388.47",
+        "allowed": "859.44"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "859.44"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00209",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Chen Garcia",
+      "dob": "1986-03-04",
+      "member_id": "M61996696"
+    },
+    "service_date": "2026-10-20",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "2860.63",
+        "allowed": "2121.81"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "2121.81"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00209",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Chen Garcia",
+      "dob": "1986-03-04",
+      "member_id": "M61996696"
+    },
+    "service_date": "2026-10-20",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "2860.63",
+        "allowed": "2121.81"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "2121.81"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00047",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Hana Smith",
+      "dob": "1995-04-23",
+      "member_id": "M42051937"
+    },
+    "service_date": "2026-10-13",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "1861.92",
+        "allowed": "1602.27"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "1480.75",
+        "allowed": "1173.24"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "3886.59",
+        "allowed": "1862.20"
+      },
+      {
+        "line_no": 4,
+        "cpt": "27447",
+        "billed": "859.06",
+        "allowed": "487.88"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "1602.27"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00069",
+    "payer": "Humana",
+    "patient": {
+      "name": "Fatima Patel",
+      "dob": "1965-12-02",
+      "member_id": "M68548403"
+    },
+    "service_date": "2026-06-15",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "120.52",
+        "allowed": "72.12"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "72.12"
+      },
+      {
+        "code": "PR-1",
+        "amount": "85.40"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00147",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Eli Smith",
+      "dob": "1993-05-11",
+      "member_id": "M83458776"
+    },
+    "service_date": "2026-10-05",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "3131.12",
+        "allowed": "943.98"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "3912.18",
+        "allowed": "3455.59"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "412.03",
+        "allowed": "320.31"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "943.98"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00056",
+    "payer": "Humana",
+    "patient": {
+      "name": "Gus Smith",
+      "dob": "1945-07-01",
+      "member_id": "M45495029"
+    },
+    "service_date": "2026-10-04",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "942.68",
+        "allowed": "428.15"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "1627.39",
+        "allowed": "1217.18"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "683.82",
+        "allowed": "397.30"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "428.15"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00237",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Jo Nguyen",
+      "dob": "1985-10-02",
+      "member_id": "M33524492"
+    },
+    "service_date": "2026-09-15",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "2552.90",
+        "allowed": "2184.05"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "542.11",
+        "allowed": "183.48"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "2184.05"
+      },
+      {
+        "code": "CO-16",
+        "amount": "135.93"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00223",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Ben Nguyen",
+      "dob": "1979-02-07",
+      "member_id": "M52652506"
+    },
+    "service_date": "2026-09-15",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "1115.03",
+        "allowed": "819.94"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "819.94"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00122",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Dana Rossi",
+      "dob": "1963-01-20",
+      "member_id": "M95594482"
+    },
+    "service_date": "2026-10-16",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "1044.94",
+        "allowed": "888.34"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "3444.92",
+        "allowed": "3012.04"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "257.33",
+        "allowed": "206.75"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "3583.37",
+        "allowed": "1179.32"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "888.34"
+      },
+      {
+        "code": "CO-29",
+        "amount": "32.27"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00046",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Chen Okafor",
+      "dob": "1952-10-17",
+      "member_id": "M28321839"
+    },
+    "service_date": "2026-06-09",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "2692.92",
+        "allowed": "2314.81"
+      },
+      {
+        "line_no": 2,
+        "cpt": "45378",
+        "billed": "2747.95",
+        "allowed": "1987.45"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "2314.81"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00142",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Gus Rossi",
+      "dob": "1966-11-16",
+      "member_id": "M65784972"
+    },
+    "service_date": "2026-09-16",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "2647.13",
+        "allowed": "1252.89"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "1729.30",
+        "allowed": "1392.42"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "1252.89"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00020",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Eli Garcia",
+      "dob": "1990-12-04",
+      "member_id": "M61343880"
+    },
+    "service_date": "2026-06-28",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "1321.18",
+        "allowed": "1081.73"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "2241.61",
+        "allowed": "705.82"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "1081.73"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00088",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Chen Rossi",
+      "dob": "1963-06-15",
+      "member_id": "M20319387"
+    },
+    "service_date": "2026-10-05",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "1317.29",
+        "allowed": "1010.51"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "1010.51"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00192",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Gus Lee",
+      "dob": "1995-03-05",
+      "member_id": "M36883353"
+    },
+    "service_date": "2026-08-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "2555.79",
+        "allowed": "2130.65"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "2130.65"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00173",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Gus Nguyen",
+      "dob": "1986-12-10",
+      "member_id": "M27092408"
+    },
+    "service_date": "2026-07-24",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "3919.63",
+        "allowed": "3407.01"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "3483.57",
+        "allowed": "1708.24"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "3407.01"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00103",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Eli Garcia",
+      "dob": "1946-10-24",
+      "member_id": "M88763056"
+    },
+    "service_date": "2026-07-08",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "847.95",
+        "allowed": "402.16"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "3824.15",
+        "allowed": "1328.58"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "3519.18",
+        "allowed": "1597.24"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "402.16"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00024",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Fatima Rossi",
+      "dob": "1968-08-22",
+      "member_id": "M38682516"
+    },
+    "service_date": "2026-10-16",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "3307.07",
+        "allowed": "2121.36"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "2952.76",
+        "allowed": "2362.90"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "2121.36"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00074",
+    "payer": "Humana",
+    "patient": {
+      "name": "Ben Garcia",
+      "dob": "1942-04-23",
+      "member_id": "M68754920"
+    },
+    "service_date": "2026-09-17",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "2505.94",
+        "allowed": "1624.34"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "2437.89",
+        "allowed": "2061.07"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "1765.72",
+        "allowed": "1170.68"
+      },
+      {
+        "line_no": 4,
+        "cpt": "27447",
+        "billed": "870.94",
+        "allowed": "761.75"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "1624.34"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00064",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Chen Lee",
+      "dob": "1977-09-18",
+      "member_id": "M54244334"
+    },
+    "service_date": "2026-06-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "2170.49",
+        "allowed": "1192.89"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "1718.65",
+        "allowed": "955.67"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "2042.41",
+        "allowed": "1781.30"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99214",
+        "billed": "431.97",
+        "allowed": "153.23"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "1192.89"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00068",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Dana Nguyen",
+      "dob": "1953-03-25",
+      "member_id": "M44295247"
+    },
+    "service_date": "2026-08-11",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "2251.51",
+        "allowed": "1044.48"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "676.73",
+        "allowed": "343.17"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "1565.02",
+        "allowed": "1106.36"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "2842.65",
+        "allowed": "1990.65"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "1044.48"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00214",
+    "payer": "Humana",
+    "patient": {
+      "name": "Dana Nguyen",
+      "dob": "1968-03-22",
+      "member_id": "M19995059"
+    },
+    "service_date": "2026-07-06",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "2264.00",
+        "allowed": "1978.78"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "2974.72",
+        "allowed": "988.44"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "1144.76",
+        "allowed": "769.66"
+      },
+      {
+        "line_no": 4,
+        "cpt": "36415",
+        "billed": "1262.52",
+        "allowed": "1069.22"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "1978.78"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00226",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Chen Garcia",
+      "dob": "1968-03-06",
+      "member_id": "M86015183"
+    },
+    "service_date": "2026-10-22",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "3508.36",
+        "allowed": "2684.31"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "2137.82",
+        "allowed": "927.78"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "781.92",
+        "allowed": "452.59"
+      },
+      {
+        "line_no": 4,
+        "cpt": "70553",
+        "billed": "554.76",
+        "allowed": "298.50"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "2684.31"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00003",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Dana Nguyen",
+      "dob": "1945-04-28",
+      "member_id": "M23556182"
+    },
+    "service_date": "2026-09-09",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "587.07",
+        "allowed": "302.57"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "3245.26",
+        "allowed": "1488.64"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99214",
+        "billed": "3905.89",
+        "allowed": "2248.44"
+      },
+      {
+        "line_no": 4,
+        "cpt": "93000",
+        "billed": "2064.61",
+        "allowed": "717.00"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "302.57"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00138",
+    "payer": "Humana",
+    "patient": {
+      "name": "Chen Kim",
+      "dob": "1973-03-18",
+      "member_id": "M31493051"
+    },
+    "service_date": "2026-08-18",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "1654.24",
+        "allowed": "540.62"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "540.62"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00133",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Gus Rossi",
+      "dob": "1948-11-10",
+      "member_id": "M42483531"
+    },
+    "service_date": "2026-08-22",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "3892.69",
+        "allowed": "2245.98"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "2245.98"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00091",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Ben Patel",
+      "dob": "1959-07-23",
+      "member_id": "M74245343"
+    },
+    "service_date": "2026-10-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "2747.34",
+        "allowed": "1193.84"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "808.11",
+        "allowed": "357.22"
+      },
+      {
+        "line_no": 3,
+        "cpt": "36415",
+        "billed": "217.80",
+        "allowed": "112.50"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-22",
+        "amount": "1193.84"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00106",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Fatima Garcia",
+      "dob": "1986-08-21",
+      "member_id": "M44529507"
+    },
+    "service_date": "2026-07-01",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "276.43",
+        "allowed": "84.47"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "1836.58",
+        "allowed": "864.55"
+      },
+      {
+        "line_no": 3,
+        "cpt": "71046",
+        "billed": "2828.93",
+        "allowed": "1687.03"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "84.47"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00081",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Gus Patel",
+      "dob": "1989-05-08",
+      "member_id": "M50419829"
+    },
+    "service_date": "2026-06-02",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "495.37",
+        "allowed": "154.26"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "154.26"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00205",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Jo Rossi",
+      "dob": "1945-08-15",
+      "member_id": "M52421060"
+    },
+    "service_date": "2026-06-16",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "2737.76",
+        "allowed": "1187.16"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "1187.16"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00059",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Dana Lee",
+      "dob": "1943-06-08",
+      "member_id": "M26901217"
+    },
+    "service_date": "2026-10-07",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "2411.48",
+        "allowed": "2098.79"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "600.90",
+        "allowed": "533.93"
+      },
+      {
+        "line_no": 3,
+        "cpt": "36415",
+        "billed": "2934.56",
+        "allowed": "2468.02"
+      },
+      {
+        "line_no": 4,
+        "cpt": "80053",
+        "billed": "397.45",
+        "allowed": "214.18"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "2098.79"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00180",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Jo Garcia",
+      "dob": "1947-08-06",
+      "member_id": "M32436477"
+    },
+    "service_date": "2026-07-26",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "2819.83",
+        "allowed": "1554.23"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "3682.21",
+        "allowed": "3019.91"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "3082.67",
+        "allowed": "2555.51"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "1646.84",
+        "allowed": "572.07"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "1554.23"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00174",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Dana Patel",
+      "dob": "1999-08-05",
+      "member_id": "M54448673"
+    },
+    "service_date": "2026-06-08",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "3760.54",
+        "allowed": "3268.73"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "3268.73"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00057",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Hana Nguyen",
+      "dob": "1981-07-04",
+      "member_id": "M28760553"
+    },
+    "service_date": "2026-06-02",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "93000",
+        "billed": "2012.45",
+        "allowed": "1416.16"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "3144.77",
+        "allowed": "1662.37"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "648.04",
+        "allowed": "456.80"
+      },
+      {
+        "line_no": 4,
+        "cpt": "70553",
+        "billed": "211.20",
+        "allowed": "141.87"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "1416.16"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00202",
+    "payer": "Humana",
+    "patient": {
+      "name": "Chen Rossi",
+      "dob": "1998-08-04",
+      "member_id": "M65201639"
+    },
+    "service_date": "2026-09-02",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "3481.82",
+        "allowed": "2895.74"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "672.74",
+        "allowed": "255.31"
+      },
+      {
+        "line_no": 3,
+        "cpt": "27447",
+        "billed": "915.69",
+        "allowed": "331.69"
+      },
+      {
+        "line_no": 4,
+        "cpt": "71046",
+        "billed": "3062.90",
+        "allowed": "2165.58"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "2895.74"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00163",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Eli Smith",
+      "dob": "1999-07-23",
+      "member_id": "M53788744"
+    },
+    "service_date": "2026-08-15",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "27447",
+        "billed": "3754.45",
+        "allowed": "3143.78"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "525.13",
+        "allowed": "340.53"
+      },
+      {
+        "line_no": 3,
+        "cpt": "45378",
+        "billed": "779.99",
+        "allowed": "532.21"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "472.32",
+        "allowed": "309.43"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "3143.78"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00098",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ana Lee",
+      "dob": "1948-12-11",
+      "member_id": "M73584863"
+    },
+    "service_date": "2026-10-15",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "586.88",
+        "allowed": "314.77"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "3004.64",
+        "allowed": "2594.11"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "314.77"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00018",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ana Smith",
+      "dob": "1989-03-21",
+      "member_id": "M45159040"
+    },
+    "service_date": "2026-07-24",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "3251.05",
+        "allowed": "1386.18"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "1147.43",
+        "allowed": "817.54"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99213",
+        "billed": "2729.79",
+        "allowed": "1619.09"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "1386.18"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00067",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Ana Patel",
+      "dob": "1957-08-22",
+      "member_id": "M66910299"
+    },
+    "service_date": "2026-09-20",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "444.82",
+        "allowed": "171.31"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "561.07",
+        "allowed": "419.49"
+      },
+      {
+        "line_no": 3,
+        "cpt": "36415",
+        "billed": "2052.34",
+        "allowed": "1132.69"
+      },
+      {
+        "line_no": 4,
+        "cpt": "36415",
+        "billed": "905.27",
+        "allowed": "472.58"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-50",
+        "amount": "171.31"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00030",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Gus Nguyen",
+      "dob": "1988-07-09",
+      "member_id": "M20993268"
+    },
+    "service_date": "2026-09-01",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "70553",
+        "billed": "749.13",
+        "allowed": "665.55"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "221.38",
+        "allowed": "186.88"
+      },
+      {
+        "line_no": 3,
+        "cpt": "71046",
+        "billed": "520.12",
+        "allowed": "356.62"
+      },
+      {
+        "line_no": 4,
+        "cpt": "93000",
+        "billed": "2500.62",
+        "allowed": "1022.85"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "665.55"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00145",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Eli Nguyen",
+      "dob": "1976-05-28",
+      "member_id": "M79043610"
+    },
+    "service_date": "2026-06-05",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "3806.39",
+        "allowed": "2535.65"
+      },
+      {
+        "line_no": 2,
+        "cpt": "80053",
+        "billed": "950.22",
+        "allowed": "636.35"
+      },
+      {
+        "line_no": 3,
+        "cpt": "36415",
+        "billed": "1164.97",
+        "allowed": "912.48"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "2535.65"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00008",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Fatima Nguyen",
+      "dob": "1955-01-08",
+      "member_id": "M86149359"
+    },
+    "service_date": "2026-06-03",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "881.31",
+        "allowed": "462.11"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "2907.89",
+        "allowed": "2535.97"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "462.11"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00221",
+    "payer": "Humana",
+    "patient": {
+      "name": "Fatima Lee",
+      "dob": "1975-09-05",
+      "member_id": "M26540343"
+    },
+    "service_date": "2026-06-01",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "2876.90",
+        "allowed": "1242.59"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "2941.16",
+        "allowed": "1402.90"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "1242.59"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00151",
+    "payer": "BlueCross",
+    "patient": {
+      "name": "Gus Rossi",
+      "dob": "1995-04-03",
+      "member_id": "M23484199"
+    },
+    "service_date": "2026-07-25",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99213",
+        "billed": "438.67",
+        "allowed": "271.23"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "3279.83",
+        "allowed": "2263.12"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-45",
+        "amount": "271.23"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00230",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Jo Lee",
+      "dob": "1996-12-24",
+      "member_id": "M98817918"
+    },
+    "service_date": "2026-08-03",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "2591.45",
+        "allowed": "1105.05"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99213",
+        "billed": "3473.50",
+        "allowed": "2778.87"
+      },
+      {
+        "line_no": 3,
+        "cpt": "71046",
+        "billed": "1357.53",
+        "allowed": "442.40"
+      },
+      {
+        "line_no": 4,
+        "cpt": "99213",
+        "billed": "786.34",
+        "allowed": "532.92"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1105.05"
+      },
+      {
+        "code": "CO-197",
+        "amount": "68.99"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00204",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Chen Patel",
+      "dob": "1988-08-11",
+      "member_id": "M42331952"
+    },
+    "service_date": "2026-08-09",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "45378",
+        "billed": "2606.69",
+        "allowed": "1322.76"
+      },
+      {
+        "line_no": 2,
+        "cpt": "70553",
+        "billed": "859.37",
+        "allowed": "690.43"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "1322.76"
+      },
+      {
+        "code": "CO-97",
+        "amount": "175.66"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00175",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ana Lee",
+      "dob": "1964-08-24",
+      "member_id": "M66324902"
+    },
+    "service_date": "2026-07-14",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "1755.19",
+        "allowed": "703.36"
+      },
+      {
+        "line_no": 2,
+        "cpt": "36415",
+        "billed": "3797.02",
+        "allowed": "2665.56"
+      },
+      {
+        "line_no": 3,
+        "cpt": "80053",
+        "billed": "2421.62",
+        "allowed": "743.04"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-29",
+        "amount": "703.36"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00118",
+    "payer": "Cigna",
+    "patient": {
+      "name": "Gus Lee",
+      "dob": "1995-02-07",
+      "member_id": "M88864147"
+    },
+    "service_date": "2026-10-07",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "99214",
+        "billed": "2438.17",
+        "allowed": "1970.72"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "1970.72"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00199",
+    "payer": "UnitedHealthcare",
+    "patient": {
+      "name": "Fatima Kim",
+      "dob": "1940-01-22",
+      "member_id": "M21945758"
+    },
+    "service_date": "2026-06-27",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "1458.84",
+        "allowed": "1165.47"
+      },
+      {
+        "line_no": 2,
+        "cpt": "93000",
+        "billed": "1956.54",
+        "allowed": "1412.74"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-97",
+        "amount": "1165.47"
+      },
+      {
+        "code": "CO-22",
+        "amount": "78.05"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00087",
+    "payer": "Humana",
+    "patient": {
+      "name": "Chen Lee",
+      "dob": "1949-10-22",
+      "member_id": "M68810561"
+    },
+    "service_date": "2026-06-05",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "3239.47",
+        "allowed": "2366.75"
+      },
+      {
+        "line_no": 2,
+        "cpt": "27447",
+        "billed": "3696.35",
+        "allowed": "2093.41"
+      },
+      {
+        "line_no": 3,
+        "cpt": "36415",
+        "billed": "302.06",
+        "allowed": "222.34"
+      },
+      {
+        "line_no": 4,
+        "cpt": "93000",
+        "billed": "3303.59",
+        "allowed": "2969.57"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "2366.75"
+      },
+      {
+        "code": "CO-18",
+        "amount": "129.04"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00194",
+    "payer": "Medicare",
+    "patient": {
+      "name": "Dana Lee",
+      "dob": "1983-01-21",
+      "member_id": "M43396474"
+    },
+    "service_date": "2026-07-23",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "277.78",
+        "allowed": "172.30"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-16",
+        "amount": "172.30"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00063",
+    "payer": "Aetna",
+    "patient": {
+      "name": "Ben Kim",
+      "dob": "1967-08-08",
+      "member_id": "M65541117"
+    },
+    "service_date": "2026-08-27",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "36415",
+        "billed": "465.30",
+        "allowed": "390.65"
+      },
+      {
+        "line_no": 2,
+        "cpt": "71046",
+        "billed": "3269.23",
+        "allowed": "1271.73"
+      },
+      {
+        "line_no": 3,
+        "cpt": "70553",
+        "billed": "1521.87",
+        "allowed": "1026.64"
+      },
+      {
+        "line_no": 4,
+        "cpt": "70553",
+        "billed": "3813.73",
+        "allowed": "1888.22"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-197",
+        "amount": "390.65"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00198",
+    "payer": "Humana",
+    "patient": {
+      "name": "Jo Patel",
+      "dob": "1958-02-26",
+      "member_id": "M24262473"
+    },
+    "service_date": "2026-09-07",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "71046",
+        "billed": "3553.31",
+        "allowed": "2175.29"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "CO-18",
+        "amount": "2175.29"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  },
+  {
+    "claim_id": "CLM-00124",
+    "payer": "Humana",
+    "patient": {
+      "name": "Chen Patel",
+      "dob": "1971-07-21",
+      "member_id": "M54462389"
+    },
+    "service_date": "2026-10-28",
+    "lines": [
+      {
+        "line_no": 1,
+        "cpt": "80053",
+        "billed": "2486.47",
+        "allowed": "1588.86"
+      },
+      {
+        "line_no": 2,
+        "cpt": "99214",
+        "billed": "1652.73",
+        "allowed": "1174.14"
+      },
+      {
+        "line_no": 3,
+        "cpt": "99213",
+        "billed": "3507.45",
+        "allowed": "3139.18"
+      },
+      {
+        "line_no": 4,
+        "cpt": "45378",
+        "billed": "570.21",
+        "allowed": "309.72"
+      }
+    ],
+    "adjustments": [
+      {
+        "code": "PR-1",
+        "amount": "1588.86"
+      }
+    ],
+    "clinical_note": "Patient presented with symptoms; see chart for details."
+  }
+]
