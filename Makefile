@@ -2,7 +2,7 @@ PY ?= python3.12
 VENV := .venv
 BIN := $(VENV)/bin
 
-.PHONY: bootstrap test db-up db-down db-reset
+.PHONY: bootstrap test lint run check db-up db-down db-reset
 
 bootstrap:
 	$(PY) -m venv $(VENV)
@@ -11,6 +11,16 @@ bootstrap:
 
 test:
 	$(BIN)/pytest -q
+
+lint:
+	$(BIN)/ruff check .
+	$(BIN)/ruff format --check .
+	$(BIN)/mypy
+
+check: lint test
+
+run:
+	$(BIN)/python -m app.runner $(ARGS)
 
 db-up:
 	docker compose up -d --wait
