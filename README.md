@@ -93,6 +93,24 @@ These are calls the task leaves open; each one is a single place to change.
 | Test the real mock's failure profile across seeds and assert no wrong answer is ever accepted | Testing only the happy path with the reliable model |
 | One failed claim is logged and retried next run | One exception aborting the whole batch |
 
+## Debugging
+
+`python -m app.triage_one --claim-id CLM-00038 --seed 1` triages one claim without the database and prints every attempt.
+With seed 1 that claim's first reply fails validation (`wrong_schema`) and the retry passes, so it shows the whole loop.
+Add `--pause` to stop in the debugger right before triage.
+
+In VS Code, open the Run and Debug panel (⇧⌘D) and pick a configuration from `.vscode/launch.json`:
+
+| Configuration | What it does |
+|---|---|
+| Debug: triage one claim (no database) | Runs `app.triage_one` with `--pause`; press F11 to step into `triage()` |
+| Debug: runner, 1 worker, 5 claims | The real run against Postgres; only pending claims are picked up |
+| Debug: pytest current file | Debugs the test file that is open |
+
+Useful breakpoints are `app/rules.py` at the `expect()` return (the expected answer), `app/triage.py` at `build_prompt` (the prompt) and at `validate_reply` (each model reply and its verdict).
+Use one worker when debugging, since breakpoints in eight threads are hard to follow.
+Outside VS Code, `pytest --pdb` stops at the line where a test fails.
+
 ## Not done yet
 
 - No locking between two runners started at once; both could pay for the same claim, though only one result is saved.

@@ -1,0 +1,32 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug: triage one claim (no database)",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "app.triage_one",
+      "args": ["--claim-id", "CLM-00038", "--seed", "1", "--pause"],
+      "cwd": "${workspaceFolder}",
+      "justMyCode": true
+    },
+    {
+      "name": "Debug: runner, 1 worker, 5 claims",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "app.runner",
+      "args": ["--workers", "1", "--seed", "1", "--limit", "5"],
+      "cwd": "${workspaceFolder}",
+      "justMyCode": true
+    },
+    {
+      "name": "Debug: pytest current file",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": ["${file}", "-q"],
+      "cwd": "${workspaceFolder}",
+      "justMyCode": false
+    }
+  ]
+}
