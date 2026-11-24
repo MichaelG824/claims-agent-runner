@@ -1,0 +1,8 @@
+reviews:
+  path_filters:
+    - "!data/denied_claims.json"
+  path_instructions:
+    - path: "app/mock_model.py"
+      instructions: "Provided scaffold that the task forbids changing. Review how other code uses it, not the file itself."
+    - path: "app/**/*.py"
+      instructions: "Money must stay Decimal end to end. Flag any float arithmetic on amounts, any patient identity reaching a prompt or log, and any path where a model answer is stored without validation."
